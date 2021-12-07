@@ -13,10 +13,7 @@ and create an REST api
 ```bash
 npm start
 ```
-### To run the tests:
-```bash
-npm test
-```
+
 ### To run the application in production mode:
 ```bash
 npm run open
